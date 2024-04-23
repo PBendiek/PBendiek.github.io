@@ -9,7 +9,7 @@ title:  paula bendiek
 email: paula.bendiek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog about energy, housing, data & other interesting random stuff. 
-baseurl: "pbendiek.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PBendiek
 linkedin_username: paula-bendiek-b40422184
