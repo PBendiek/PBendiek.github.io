@@ -6,7 +6,7 @@ permalink: /me/
 
 Hi, I am Paula! I am a Data Scienist and work in the energy sector, using data to decarbonise buildings. I also live in a housing cooperative - would recommend, they are great! 
 
-I have an MSc in Energy Systems and Data Analytics and BEng in Energy and Environmental Engineering. 
+I have an MSc in Energy Systems and Data Analytics and BEng in Energy and Environmental Engineering. I worked at places like [Octopus Energy](https://octopus.energy/) and the [Energy Systems Catapult](https://es.catapult.org.uk/). Now, I am at [Building Atlas](https://www.buildingatlas.io/), helping to scale up retrofits for commertial buildings. 
 
 
 <img src="/images/me.jpg" width="600" height="650">

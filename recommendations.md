@@ -3,9 +3,8 @@ layout: page
 title: recommendations
 ---
 
-<span style="font-size:25px">
-    A couple of books, blogs & podcast that I recommend.  
-</span>
+A couple of books, blogs & podcast that I recommend.  
+
 
 ## Read
 
