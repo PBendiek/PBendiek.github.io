@@ -1,0 +1,12 @@
+
+linkedin:
+  id: 'in/paula-bendiek-b40422184/'
+  href: 'https://www.linkedin.com/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+  
+twitter:
+  id: 'PBendiek'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'

@@ -5,7 +5,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  paula bendiek
+title: paula bendiek
 email: paula.bendiek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog about energy, housing, data & other interesting random stuff. 
@@ -13,10 +13,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PBendiek
 linkedin_username: paula-bendiek-b40422184
-# social_links: 
-#   - 
-#     platform: linkedin
-#       user_url: https://www.linkedin.com/in/paula-bendiek-b40422184
 
 # Build settings
 theme: minima
