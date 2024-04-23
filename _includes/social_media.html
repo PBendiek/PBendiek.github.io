@@ -1,0 +1,21 @@
+<head>
+    <script src="https://kit.fontawesome.com/0bd7b35132.js" crossorigin="anonymous"></script>
+</head>
+
+{% if site.data.social_media %}
+<div id="social_media">
+    <ul style="list-style: none; padding: 0; margin: 0;">
+        {% assign sm = site.data.social_media %}
+        {% for entry in sm %}
+        {% assign key = entry | first %}
+        {% if sm[key].id %}
+        <li style="margin-bottom: 5px;">
+            <a href="{{ sm[key].href }}{{ sm[key].id }}" title="{{ sm[key].title }}">
+                <i class="fa {{ sm[key].fa-icon }}" style="color: grey; font-size: 24px;"></i>
+            </a>
+        </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
