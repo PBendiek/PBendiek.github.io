@@ -1,0 +1,11 @@
+- name: Paula 
+  job: Data Scientist 
+
+- name: Andrew 
+  job: Chief Story Telling Officer  
+
+- name: Tee 
+  job: Chief Fun Officer  
+
+# this can be accessed through {{ site.data.people }}
+# more uses https://www.youtube.com/watch?v=M6b0KmLB-pM&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=17
