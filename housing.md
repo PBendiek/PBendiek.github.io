@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "housing & co-ops"
+title: "housing & coops"
+permalink: /housing-coops/
 ---
 Some thoughts about housing and living in coops. 
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "energy"
+permalink: /energy/
 ---
 
 Some thoughts about the energy system. 

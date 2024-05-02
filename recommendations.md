@@ -1,6 +1,7 @@
 ---
 layout: page
 title: recommendations
+permalink: /recommendations/
 ---
 
 A couple of books, blogs & podcast that I recommend.  
