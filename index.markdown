@@ -2,7 +2,7 @@
 layout: home
 ---
 <br>
-Hi, I am Paula. This site is for thinking and writing about buildings, data, energy, decision making processes, and alternatlive forms of living together.
+Hi, I am Paula. This page is for thinking and writing about buildings, data, energy, decision making processes, alternatlive forms of living, and other random things.
 
 <br>
 
